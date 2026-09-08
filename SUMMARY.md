@@ -41,6 +41,7 @@
 
 * [Verified Members](governance/verified-members/README.md)
   * [How to Become Verified](governance/verified-members/how-to-become-verified.md)
+  * [How to vote](governance/verified-members/how-to-vote.md)
 * [Neural Quorum Governance](governance/neural-quorum-governance/README.md)
   * [Components & Parameters](governance/neural-quorum-governance/components-and-parameters.md)
   * [Process & User Journey](governance/neural-quorum-governance/process-and-user-journey.md)
